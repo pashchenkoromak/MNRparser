@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1488066604 source:e:\forta\first\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Program.h"
+
+1488066777 source:e:\forta\first\src\program.cpp
+	"Program.h"
+	<fstream>
+	<string>
+	<vector>
+	<ctime>
+
+1488064553 e:\forta\first\include\program.h
+	<iostream>
+	<fstream>
+	<vector>
+
